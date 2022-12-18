@@ -1,9 +1,5 @@
-### Hi there 👋
-
-<!--
-**k0000k/k0000k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Studying Backend
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
