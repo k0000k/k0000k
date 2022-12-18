@@ -22,7 +22,7 @@
  <br>복습 일정 관리와 오답 노트를 한번에 이용할 수 있는 안드로이드 앱
 
  - <strong>OpenGrade</strong>: https://github.com/k0000k/OpenGrade
- <br>융합특성화자유전공학부 후배들의 용이한 전과를 돕기 위한 점수 공개 서비스
+ <br>융합특성화자유전공학부 1학년 학생들의 용이한 전과를 돕기 위한 점수 공개 서비스
 <br>
 
 ## Awards
