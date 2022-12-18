@@ -6,7 +6,7 @@
 </div>
 
 ## Tech Stack
-<img src="https://img.shields.io/badge/JAVA-D0271D?style=flat-square&logo=OpenJDK&logoColor=white"/> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=Google Cloud&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JAVA-D0271D?style=for-the-badge&logo=OpenJDK&logoColor=white"/> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=Google Cloud&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
 
 
 ## Contact Me & SNS
@@ -30,9 +30,9 @@
 <br>Velog In Mobile 프로젝트로 참가하여 우수상 수상
 
 ## Career
-- Soongsil Univ. Computer Engineering (2021~)
-<br>- 숭실대학교 중앙 컴퓨터 동아리 SSCC 회장 (39th Leader) (2022)
-<br>- SSUPERPOWER Developer 2nd Member (2022~)
+- Soongsil Univ. Computer Engineering (2021~)<br>
+- 숭실대학교 중앙 컴퓨터 동아리 SSCC 회장 (39th Leader) (2022)<br>
+- SSUPERPOWER Developer 2nd Member (2022~)
 
 ## My Posts
 ![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=k0000k)
