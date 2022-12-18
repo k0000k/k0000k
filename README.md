@@ -15,13 +15,13 @@
  <br>
  
  ## Projects
- Velog In Mobile: https://github.com/SSUDevelog/VelogInMobile_Server
+ - Velog In Mobile: https://github.com/SSUDevelog/VelogInMobile_Server
  <br>기술 블로그 velog를 더 쉽고 접근성 있게 사용할 수 있게 해주는 ios 앱
  
- ReviewPlanner: https://github.com/2022SSUAndroid/ReviewPlanner
+ - ReviewPlanner: https://github.com/2022SSUAndroid/ReviewPlanner
  <br>복습 일정 관리와 오답 노트를 한번에 이용할 수 있는 안드로이드 앱
 
- OpenGrade: https://github.com/k0000k/OpenGrade
+ - OpenGrade: https://github.com/k0000k/OpenGrade
  <br>융합특성화자유전공학부 후배들의 용이한 전과를 돕기 위한 점수 공개 서비스
 <br>
 
