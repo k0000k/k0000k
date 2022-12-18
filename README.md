@@ -30,15 +30,15 @@
 
 ## Awards
 -   [2021 스마트농업 인공지능 경진대회](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=001&oid=003&aid=0010840259) (SSCC 꿀벌 팀 팀장)
-AI를 이용한 스마트 양봉장 통합 관리 시스템을 기획하여 우수상 수상 
+<br>AI를 이용한 스마트 양봉장 통합 관리 시스템을 기획하여 우수상 수상 
 
 - 2022 숭실대학교 SW/DT 새싹(SeSAC)경진대회 (SSULOG팀)
-Velog In Mobile 프로젝트로 참가하여 우수상 수상
+<br>Velog In Mobile 프로젝트로 참가하여 우수상 수상
 
 ## Career
 Soongsil Univ. Computer Engineering (2021~)
-SSCC 39th Leader (2022)
-SSUPERPOWER Developer 2nd Member (2022~)
+<br>SSCC 39th Leader (2022)
+<br>SSUPERPOWER Developer 2nd Member (2022~)
 
 ## My Posts
 ![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=k0000k)
