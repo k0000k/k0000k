@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=%20k0000k%20%20&height=200&fontSize=80&animation=twinkling&fontAlignY=34&desc=HyeGyeong%20Kook%20)
 <div align='center'>
-<strong>Hi🔥🔥 I'm Developer studying backend.</strong>
+<strong>Seek joy through making software🔥</strong>
 </div>
 <br>
 
@@ -15,14 +15,18 @@
  <br>
  
  ## Projects
- - <strong>Velog In Mobile</strong>: https://github.com/SSUDevelog/VelogInMobile_Server
- <br>기술 블로그 velog를 더 쉽고 접근성 있게 사용할 수 있게 해주는 ios 앱
+ - <strong>EasyVel</strong>: https://github.com/SSUDevelog/EasyVel-Server
+ <br>기술 블로그 velog를 더 쉽고 접근성 있게 사용할 수 있게 해주는 ios 앱 [[App store 바로가기](https://apps.apple.com/kr/app/%EC%9D%B4%EC%A7%80%EB%B2%A8-easyvel/id6448953485)]
+
+- <strong>Daitssu</strong>: https://github.com/DaITssu/daitssu-crawl
+<br>숭실대학교의 모든 것을 모아보는 플랫폼
+
+ - <strong>OpenGrade</strong>: https://github.com/k0000k/OpenGrade
+ <br>융합특성화자유전공학부 1학년 학생들의 용이한 전과를 돕기 위한 점수 공개 서비스
  
  - <strong>ReviewPlanner</strong>: https://github.com/2022SSUAndroid/ReviewPlanner
  <br>복습 일정 관리와 오답 노트를 한번에 이용할 수 있는 안드로이드 앱
 
- - <strong>OpenGrade</strong>: https://github.com/k0000k/OpenGrade
- <br>융합특성화자유전공학부 1학년 학생들의 용이한 전과를 돕기 위한 점수 공개 서비스
 <br>
 
 ## Awards
@@ -30,7 +34,7 @@
 <br>AI를 이용한 스마트 양봉장 통합 관리 시스템을 기획하여 우수상 수상 
 
 - 2022 숭실대학교 SW/DT 새싹(SeSAC)경진대회 (SSULOG팀)
-<br>Velog In Mobile 프로젝트로 참가하여 우수상 수상
+<br>EasyVel 프로젝트로 참가하여 우수상 수상
 <br>
 
 ## Career
