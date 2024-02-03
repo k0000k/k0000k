@@ -35,11 +35,9 @@
 ## Awards
 - 2023 K-PaaS 활용 디지털 사회혁신 서비스 개발 공모전 (Cooing 팀 팀장)
 <br>COOING 프로젝트로 참가하여 금상 수상
-<br>
 
 - 2022 숭실대학교 SW/DT 새싹(SeSAC)경진대회 (SSULOG팀)
 <br>EasyVel 프로젝트로 참가하여 우수상 수상
-<br>
 
 -   [2021 스마트농업 인공지능 경진대회](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=001&oid=003&aid=0010840259) (SSCC 꿀벌 팀 팀장)
 <br>AI를 이용한 스마트 양봉장 통합 관리 시스템을 기획하여 우수상 수상 
