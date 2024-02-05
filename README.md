@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=%20k0000k%20%20&height=200&fontSize=80&animation=twinkling&fontAlignY=34&desc=HyeGyeong%20Kook%20)
 <div align='center'>
-<strong>Seek joy through making software🔥</strong>
+<strong>Spring Spring🔥</strong>
 </div>
 <br>
 
