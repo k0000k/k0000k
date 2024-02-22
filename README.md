@@ -15,13 +15,13 @@
  <br>
  
  ## Projects
- - <strong>COOING</strong>: [https://github.com/SSUDevelog/EasyVel-Server](https://github.com/COOING-team/COOING-Server)
+ - <strong>COOING</strong>: https://github.com/COOING-team/COOING-Server
  <br>음성으로 쓰는 아동 언어발달 일기 iOS 앱
  
  - <strong>EasyVel</strong>: https://github.com/SSUDevelog/EasyVel-Server
  <br>기술 블로그 velog를 더 쉽고 접근성 있게 사용할 수 있게 해주는 iOS 앱 [[App store 바로가기](https://apps.apple.com/kr/app/%EC%9D%B4%EC%A7%80%EB%B2%A8-easyvel/id6448953485)]
 
- - <strong>모브제</strong>: [https://github.com/SSUDevelog/EasyVel-Server](https://github.com/objet-team/objet-backend)
+ - <strong>모브제</strong>: https://github.com/objet-team/objet-backend
  <br>신입 작가들을 위한 온라인 전시 플랫폼
 
 - <strong>Daitssu</strong>: https://github.com/DaITssu/daitssu-crawl
