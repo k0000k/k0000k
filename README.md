@@ -15,6 +15,9 @@
  <br>
  
  ## Projects
+ - <strong>Litera-Sea</strong>: https://github.com/gdsc-ssu/litera-sea-server
+ <br>문해력 트레이닝 웹 서비스
+
  - <strong>COOING</strong>: https://github.com/COOING-team/COOING-Server
  <br>음성으로 쓰는 아동 언어발달 일기 iOS 앱
  
