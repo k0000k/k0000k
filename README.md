@@ -15,6 +15,9 @@
  <br>
  
  ## Projects
+ - <strong>Auto DevLog</strong>: https://github.com/AutoDevLog
+ <br>개발자를 위한 기술블로그 작성 도우미
+
  - <strong>Litera-Sea</strong>: https://github.com/gdsc-ssu/litera-sea-server
  <br>문해력 트레이닝 웹 서비스
 
