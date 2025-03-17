@@ -25,7 +25,7 @@
  <br>음성으로 쓰는 아동 언어발달 일기 iOS 앱
  
  - <strong>EasyVel</strong>: https://github.com/SSUDevelog/EasyVel-Server
- <br>기술 블로그 velog를 더 쉽고 접근성 있게 사용할 수 있게 해주는 iOS 앱 [[App store 바로가기](https://apps.apple.com/kr/app/%EC%9D%B4%EC%A7%80%EB%B2%A8-easyvel/id6448953485)]
+ <br>기술 블로그 velog를 더 쉽고 접근성 있게 사용할 수 있게 해주는 iOS 앱
 
  - <strong>모브제</strong>: https://github.com/objet-team/objet-backend
  <br>신입 작가들을 위한 온라인 전시 플랫폼
@@ -39,14 +39,14 @@
 <br>
 
 ## Awards
-- 2023 K-PaaS 활용 디지털 사회혁신 서비스 개발 공모전 (Cooing 팀 팀장)
+- 2023 K-PaaS 활용 디지털 사회혁신 서비스 개발 공모전
 <br>COOING 프로젝트로 참가하여 금상 수상
 
-- 2022 숭실대학교 SW/DT 새싹(SeSAC)경진대회 (SSULOG팀)
+- 2022 숭실대학교 SW/DT 새싹(SeSAC)경진대회
 <br>EasyVel 프로젝트로 참가하여 우수상 수상
 
--   [2021 스마트농업 인공지능 경진대회](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=001&oid=003&aid=0010840259) (SSCC 꿀벌 팀 팀장)
-<br>AI를 이용한 스마트 양봉장 통합 관리 시스템을 기획하여 우수상 수상 
+-   [2021 스마트농업 인공지능 경진대회](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=001&oid=003&aid=0010840259)
+<br>AI기반 스마트 양봉장 통합 관리 시스템을 기획하여 우수상 수상 
 
 
 ## Career
